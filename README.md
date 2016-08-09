@@ -8,8 +8,12 @@ Just do this in Ruby:
 a = Hash.new { |h, k| h[k] = Hash.new(&h.default_proc) }
 ```
 
-Youtube URL
-[[https://youtu.be/Bc7x40qwQN8]]
+On Youtube
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Bc7x40qwQN8
+" target="_blank"><img src="http://img.youtube.com/vi/Bc7x40qwQN8/0.jpg" 
+alt="Autovivification Ruby Youtube video" width="240" height="180" border="10" /></a>
+
 
 ## Autovivification is amazing
 
@@ -47,4 +51,4 @@ $VAR1 = { 
 ```
 
 See video:
-[[https://youtu.be/Bc7x40qwQN8]]
+https://youtu.be/Bc7x40qwQN8
